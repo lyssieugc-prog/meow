@@ -4,6 +4,7 @@ The owner pitches Roblox game ideas; **Claude builds them** (code, UI, models, V
 
 - **New game:** when the owner just types a game name + description, use the **`new-game`** skill. Do all setup yourself; never ask the owner to run commands.
 - For any game work, load the **`meow-house-style`** skill. It holds the owner's style, animation, cutscene and monetization rules, with detailed reference files it opens on demand.
+- **Everything visible in Studio:** the map, every model (plus a Showcase of all of them), every UI screen and the effects are real objects you can see in Edit mode, not created by scripts only in Play. Use the **`studio-visible-build`** skill.
 - **Animations and cutscenes are mandatory** for every feature.
 - **Every game ALWAYS has** a cutscene-style, heavily animated loading screen **and** a tutorial new players must complete, with spotlights on everything it teaches (`meow-house-style/references/loading-tutorial.md`).
 - **Every game ALWAYS has** a "JOIN THE GROUP FOR ___ PRIZE!" reward (verified on the server) and a "LIKE THE GAME FOR ___!" like-goal reward that players actually receive (`meow-house-style/references/social-rewards.md`).

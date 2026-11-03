@@ -31,6 +31,7 @@ From the name and description, work out: the core action, the theme, the upgrade
 
 ## 5. Build slice by slice (after the OK)
 - **Slice 1 is always:** the loading screen + the core action + the tutorial for it.
+- Build the map, models (with a Showcase) and UI as real objects visible in Studio's Edit mode (`studio-visible-build`); scripts only bring them to life.
 - Code through Roblox Studio MCP + Script Sync, Luau `--!strict`, server-authoritative.
 - If Studio isn't connected, tell the owner in one plain sentence how to turn it on (Studio → Assistant → Manage MCP Servers → Enable Studio as MCP server), and keep writing files meanwhile.
 - After each slice: playtest, fix errors, run the "show your best friend" review, commit, and show the owner what's new in plain language.

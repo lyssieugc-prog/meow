@@ -58,4 +58,5 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 | Saved inspiration links | `references/saved-tiktoks.md` |
 
 ## Tech defaults
+Build everything as real, visible objects in Studio (map, models + Showcase, UI screens with sample content); scripts only animate, toggle and clone them. See the `studio-visible-build` skill.
 Luau `--!strict`, server-authoritative remotes and DataStores (use the `roblox-security`, `roblox-datastores`, `roblox-server-authority` skills), TweenService / Animator KeyframeMarkers for motion, Studio MCP + Script Sync.
