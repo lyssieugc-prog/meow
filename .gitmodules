@@ -1,0 +1,12 @@
+[submodule "third_party/linked/github774_roblox-claude-skills"]
+	path = third_party/linked/github774_roblox-claude-skills
+	url = https://github.com/github774/roblox-claude-skills
+[submodule "third_party/linked/brockmartin_roblox-game-skill"]
+	path = third_party/linked/brockmartin_roblox-game-skill
+	url = https://github.com/brockmartin/roblox-game-skill
+[submodule "third_party/linked/zilibobi_roblox-skills"]
+	path = third_party/linked/zilibobi_roblox-skills
+	url = https://github.com/zilibobi/roblox-skills
+[submodule "third_party/linked/romangigliotti123-arch_vault-kit-01"]
+	path = third_party/linked/romangigliotti123-arch_vault-kit-01
+	url = https://github.com/romangigliotti123-arch/vault-kit-01
