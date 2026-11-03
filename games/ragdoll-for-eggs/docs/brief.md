@@ -23,7 +23,13 @@ Jump off the edge of a giant mountain, ragdoll down a huge plinko slope, and the
 - **The Peak:** spawn, every player's base (incubators, pets, upgrade stations), the Drop Edge, and a board showing the player's odds.
 - **One continuous slope.** Every zone is **visible and open to everyone from the start** (like Steal an Egg's maps); the gates decide how far a drop really gets.
 - Each zone is a tilted **plinko board**: pegs, mushroom bumpers, spinning bats, trampolines, portals, plus that zone's **hazards**, ending in a **row of egg bins** before its gate.
-- **Gates** carry huge signs: the ⚡ requirement, the player's ⚡, and their **pass chance**.
+- **Gates are GLASS WALLS (owner's signature idea, must be built):** between every two zones, a huge glass wall spans the **full width of the slope**, edge to edge, so nothing gets past without breaking it.
+  - Thick, slightly tinted glass in the zone's colour (Zone 1→2 green, 2→3 pink candy, 3→4 orange lava, …), a chunky frame, glowing cracks that get bigger near the next zone, and a reflection shine sweeping across it.
+  - A **huge sign above each glass wall:** "🔒 NEEDS 1,000 ⚡ FALL POWER", the player's ⚡ with a progress bar, and their **pass chance %**.
+  - The **next zone is visible through the glass**, so players see what they're missing.
+  - **Smash:** the glass shatters into big flying shards (physics shards + particle burst + glass-break sound + white flash + slow-mo), "BREAKTHROUGH!" slams in, and the ragdoll flies through. The wall **reappears** after a moment (other players see their own gates intact).
+  - **Bounce:** the ragdoll hits the glass with a "BONK", a crack spreads, the ragdoll rebounds into that zone's bins, and the sign flashes the gap ("640 / 1,000 ⚡").
+- **The map is NOT one long board with bins only at the end.** It's **7 zones stacked down the slope**, each with its own plinko board, its own row of egg bins *just above its glass wall*, its own hazards and its own theme / colours.
 
 | # | Zone | Gate requirement (tune) | Hazards | Eggs |
 |---|---|---|---|---|
@@ -38,7 +44,7 @@ Jump off the edge of a giant mountain, ragdoll down a huge plinko slope, and the
 ## One drop (about 15–25 s)
 1. Walk to the Drop Edge and press **JUMP**: slow-motion dive, camera follows from behind.
 2. Ragdoll down the board: pegs ("bonk!"), bumpers, bats, trampolines, portals. A **combo meter** counts hits ("x14 BOUNCE COMBO!") and adds bonus eggs at the end.
-3. **Gates:** with enough ⚡ and a passed roll, you **smash through** (glass-shatter burst, "BREAKTHROUGH!" slam, slow-mo); otherwise you **bounce off** ("BOING!") and the sign flashes the gap ("640 / 1,000 ⚡").
+3. **Glass gates:** with enough ⚡ and a passed roll, you **smash through the glass wall** (shards fly, "BREAKTHROUGH!" slam, slow-mo); otherwise you **bounce off the glass** ("BONK", a crack spreads) and the sign flashes the gap ("640 / 1,000 ⚡").
 4. **Wipeouts:** even with enough ⚡ you can get caught by a hazard (cartoon "SPLAT!", stuck in goo, legs kicking): the drop ends in that zone.
 5. **Landing:** in the zone where the drop ends, you land in a plinko bin. Middle bins are common, small edge bins are rare, a golden **Jackpot Bin** opens sometimes, and some bins are **BUST** bins (cracked egg + sad trombone).
 6. The egg flies to your base. Back at the top in about 2 s. Repeat.
