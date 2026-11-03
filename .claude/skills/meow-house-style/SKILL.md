@@ -15,6 +15,8 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 5. **Models:** chunky blocky / low-poly, but detailed through many small repeated pieces; one element / theme per model; a dark body with glowing eyes / core / cracks; built-in particles; idle loop. Never "a few boxes in one flat colour" or plain realistic animals.
 6. **Monetization:** always a "2x (stat)" that upgrades on every repeat purchase up to **100x** (2→3→5→10→25→50→100, as Developer Products with a saved level), plus engaging pay-to-win passes (Auto-*, +Equip, Luck, VIP exclusives, Starter Pack, timed and server boosts). Show odds on paid random items.
 7. **Bright, saturated, readable worlds.** No dark, muddy maps.
+8. **Constant upgrades:** the player is never more than 30–60 s from the next upgrade. Use the four stacked loops (core → upgrades → rebirth → return) in `references/game-loop.md`.
+9. **Every game ships with a "Season 1" pass:** a battle-pass-style pass named and themed after the game (free + Premium tracks; potions, money, eggs, boosts, exclusive Season 1 pet / tool), with Premium, tier skips and a season countdown.
 
 ## Process
 - Before any creature or prop: write a **model handoff doc** (style rules + part-by-part description), preview it, then build / export.
@@ -32,6 +34,7 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 | Pets, creatures, bosses, props | `references/models-pets.md` |
 | What to never do | `references/bad-avoid.md` |
 | Maps, thumbnails, promo videos | `references/world-thumbnails-promo.md` |
+| Game loop, upgrade pacing, rebirth, Season Pass | `references/game-loop.md` |
 | Gamepasses, products, pricing | `references/monetization.md` |
 | Build process | `references/workflow.md` |
 | MCP / tool setup (Studio, ForgeGUI, Figma, Blender) | `references/tools-mcp.md` |

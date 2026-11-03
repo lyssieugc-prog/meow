@@ -16,7 +16,8 @@
    - Server-wide luck boosts (social: everyone in the server benefits)
    - Lucky blocks / crates with 1 / 3 / 10 bundles (SAVE %) and pity
 3. A **gift button** next to every price.
-4. **Limited-time offers** with live countdowns, exclusive event bundles, strikethrough old prices.
+4. **A Season Pass every game** ("<Theme> Pass – Season 1"): free + Premium tracks, Premium+ with tier skips, repeatable tier-skip products, a season countdown, and Season 1 exclusives that never return. Details in `game-loop.md`.
+5. **Limited-time offers** with live countdowns, exclusive event bundles, strikethrough old prices.
 
 ## Roblox rules to respect
 - Paid random items (crates, eggs bought with Robux) must **show their odds**.
