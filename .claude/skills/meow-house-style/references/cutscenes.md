@@ -1,6 +1,3 @@
----
-tags: [animation, cutscene, camera]
----
 # Cutscenes and Animation
 
 > The owner's correction: **always account for ANIMATIONS AND CUTSCENES**, not just how things look. Every build and every reference breakdown covers motion, camera and timing.
@@ -54,4 +51,4 @@ Reuse this structure for egg hatches, crates, gacha rolls and boss spawns.
 - Animation: `Animator` tracks with **KeyframeMarkers** (`GetMarkerReachedSignal`) to fire VFX exactly on the frame.
 - Client-side cutscene runner driven by a server RemoteEvent; the server still decides the reward.
 
-See [[UI Motion]] and [[Combat and VFX]].
+See `ui-motion.md` and `combat-vfx.md`.

@@ -1,10 +1,7 @@
----
-tags: [style, good, ui]
----
 # GOOD: UI (adopt this)
 
 Verdict from the owner: **GOOD**. Every menu in every game should look and move like this.
-See also [[UI Spec Sheet]], [[UI Motion]], [[BAD - Avoid]].
+See also `ui-spec.md`, `ui-motion.md`, `bad-avoid.md`.
 
 ## Simulator shop / menu look
 Sources: Mythic Egg shop ("made in Figma"), brainrot Lucky Block / Cash Shark shop, @jubydandev "custom ui w/ claude" (Digsite / Pen / Sell game).

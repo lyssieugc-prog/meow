@@ -1,6 +1,3 @@
----
-tags: [references, tiktok]
----
 # Saved TikToks (inspiration)
 
 ## Claude / MCP + Roblox

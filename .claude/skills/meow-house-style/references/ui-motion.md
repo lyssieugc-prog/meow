@@ -1,6 +1,3 @@
----
-tags: [animation, ui]
----
 # UI Motion
 
 Owner's note: "notice how the UI is very animated." **Nothing static.** Every open, close, claim and hover gets motion and juice.

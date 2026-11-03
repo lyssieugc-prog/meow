@@ -1,9 +1,6 @@
----
-tags: [style, ui, spec]
----
 # UI Spec Sheet
 
-Measured from the owner's GOOD references ([[GOOD - UI]]). The hex values were sampled from phone photos of screens, so treat them as close starting points and adjust by eye.
+Measured from the owner's GOOD references (`ui-good.md`). The hex values were sampled from phone photos of screens, so treat them as close starting points and adjust by eye.
 
 ## Fonts
 | Use | Font | Roblox |
@@ -39,5 +36,5 @@ Avoid Luckiest Guy and Cartoon here: they are a different look.
 - **Title bar icon:** larger than the bar, with a higher ZIndex, overlapping the top-left and tilted.
 - **Tags:** rotated -3° to -10°.
 
-## Layout (from [[Tools - MCP#Figma to Roblox]])
+## Layout (from `tools-mcp.md` (Figma to Roblox))
 Scale-only sizing and position, AnchorPoint 0.5 / 0.5 by default, UIStroke ScaledSize, UICorner in Scale, PNGs only for detailed art.

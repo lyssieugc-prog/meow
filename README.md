@@ -1,15 +1,13 @@
 # meow
 
-A Roblox game-building setup for Claude Code.
+A Roblox game-building setup for Claude Code, made entirely of skills.
 
-- **`CLAUDE.md`:** the rules Claude follows in this repo.
-- **`.claude/skills/`:** 66 skills (65 Roblox / Luau knowledge skills + `meow-house-style`, the owner's style).
-- **`vault/`:** an Obsidian vault of style references, UI specs, animation and cutscene rules, monetization rules, workflow and MCP tool setup. In Obsidian: *Open folder as vault* → `vault`.
+- **`CLAUDE.md`:** a short rule sheet.
+- **`.claude/skills/meow-house-style/`:** the owner's style, animation, cutscene and monetization rules. Detailed reference files sit in `references/` and are opened only when a task needs them.
+- **`.claude/skills/`:** 64 more Roblox / Luau skills (MIT; credits in `third_party/THIRD-PARTY.md`).
 - **`.mcp.json`:** Figma and ForgeGUI MCP servers (each asks you to sign in the first time). Roblox Studio connects from inside Studio: Assistant → Manage MCP Servers → Enable Studio as MCP server.
-- **`third_party/`:** credits, licences and linked kits.
 
-## Use
 ```bash
-git clone --recurse-submodules https://github.com/lyssieugc-prog/meow
+git clone https://github.com/lyssieugc-prog/meow
 cd meow && claude
 ```

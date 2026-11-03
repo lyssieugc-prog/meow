@@ -1,6 +1,3 @@
----
-tags: [combat, vfx, animation]
----
 # Combat and VFX
 
 ## AI weapon workflow (@lihfolk)
@@ -20,5 +17,5 @@ In order: a magenta glitch beam that RGB-splits the target (tinted offset clones
 ## Rules
 - One element / theme per kit; the player's animation colour matches the weapon.
 - Poke → control → big → ultimate (escalation).
-- Every hit: flash + shake + particles + damage number. See [[Cutscenes#Rules]].
+- Every hit: flash + shake + particles + damage number. See `cutscenes.md` (Rules).
 - Server-authoritative hitboxes and cooldowns; VFX on clients.

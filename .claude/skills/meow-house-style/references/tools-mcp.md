@@ -1,6 +1,3 @@
----
-tags: [tools, mcp, setup]
----
 # Tools and MCP servers
 
 ## Roblox Studio MCP (built in)
@@ -19,7 +16,7 @@ Guide: https://vi3w.in/guides/build-roblox-games-with-claude
 - Needs a paid Dev / Full seat (the free Starter plan allows about 6 calls a month).
 
 ### Figma to Roblox
-- **figma-to-roblox-ui** skill: `git clone https://github.com/xtrair/figma-to-roblox-ui ~/.claude/skills/figma-to-roblox-ui`. Scale-only GUI import with a Luau validator. It leaves out animations and button logic; script those per [[UI Motion]].
+- **figma-to-roblox-ui** skill: `git clone https://github.com/xtrair/figma-to-roblox-ui ~/.claude/skills/figma-to-roblox-ui`. Scale-only GUI import with a Luau validator. It leaves out animations and button logic; script those per `ui-motion.md`.
 - Alternative bridge: https://github.com/RaRdq/FigmaRobloxForge
 
 ## Blender MCP
@@ -29,7 +26,7 @@ https://github.com/ahujasid/blender-mcp. Claude drives Blender to build low-poly
 An AI Studio plugin used in the @ropilot__ai showcases (Glitching Entity, fishing reveal).
 
 ## Obsidian
-This `vault/` folder **is** an Obsidian vault: open it with Obsidian → "Open folder as vault". Related:
+Optional (not used by this repo; skills replace it):
 - @lihfolk's free 40GB+ Roblox dev vault (link in his Discord / bio): https://www.tiktok.com/@lihfolk/video/7701541453754862861 and "connect Obi vault + Graphify" https://www.tiktok.com/@lihfolk/video/7695815632251538702
 - Claude Code + Obsidian memory: https://github.com/AgriciDaniel/claude-obsidian · https://github.com/eugeniughelbur/obsidian-second-brain
 - Roblox Dev Mastery Vault notes: https://github.com/romangigliotti123-arch/vault-notes-01 (kit linked in `third_party/linked/`)

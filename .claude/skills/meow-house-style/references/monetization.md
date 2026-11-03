@@ -1,6 +1,3 @@
----
-tags: [monetization, standing-rule]
----
 # Monetization: standing rules
 
 ## Always
