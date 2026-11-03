@@ -9,6 +9,7 @@ The owner pitches Roblox game ideas; **Claude builds them** (code, UI, models, V
 - **Gamepasses:** always a 2x → 100x upgrading multiplier plus engaging pay-to-win passes.
 - **Tools:** Blender for 3D models; Claude Design for animations, VFX and model design; Figma for UI; research the best MCP for anything else. See the house-style skill.
 - **Every game:** the constant-upgrade game loop and a themed "Season 1" pass (see `references/game-loop.md`).
+- **Same style, never the same game:** every game invents its own concepts, animations and systems; never copy a previous game as a template.
 - After each build, run the "show your best friend" review.
 - When the owner sends a reference, break it down (including the animation), wait for GOOD / BAD, then record it in the skill's reference files.
 - The other skills in `.claude/skills/` cover Roblox / Luau engineering; they load automatically on matching tasks.

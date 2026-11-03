@@ -19,6 +19,7 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 9. **Every game ships with a "Season 1" pass:** a battle-pass-style pass named and themed after the game (free + Premium tracks; potions, money, eggs, boosts, exclusive Season 1 pet / tool), with Premium, tier skips and a season countdown.
 10. **Every game ALWAYS ships with a cutscene-style loading screen:** eye-catching and heavily animated (logo slam with flash + shake, idle loop, themed wipe out), never a plain bar on black. See `references/loading-tutorial.md`.
 11. **Every game ALWAYS has a tutorial new players MUST complete:** learn by doing, spotlight every target (dimmed screen with a cut-out, pulsing ring, pointing hand; world Highlight + arrow + path), saved server-side, ends with a reward cutscene. See `references/loading-tutorial.md`.
+12. **Same style, never the same game.** Rules 1–11 fix the *style*; the *ideas* must be new every game. Never reuse a previous game's code, layout or concepts as a template. Invent fresh for each game: the loading-screen concept and logo animation, the transition wipe, the tutorial guide character and how spotlights move, the core action and its feel, the zones, the pets / creatures, the rebirth twist, the Season 1 theme and its exclusive. Before building, list 3 ideas for each of those and pick the most surprising one that still fits the house style. If something feels like "the last game reskinned", redo it.
 
 ## Tool routing (ALWAYS, owner's rule)
 | Work | Tool |
