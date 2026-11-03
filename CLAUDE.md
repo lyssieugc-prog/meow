@@ -4,6 +4,7 @@ The owner pitches Roblox game ideas; **Claude builds them** (code, UI, models, V
 
 - **New game:** when the owner just types a game name + description, use the **`new-game`** skill. Do all setup yourself; never ask the owner to run commands.
 - For any game work, load the **`meow-house-style`** skill. It holds the owner's style, animation, cutscene and monetization rules, with detailed reference files it opens on demand.
+- **Two styles:** brainrot / simulator (default, `meow-house-style`) or **realistic** (photoreal models, lighting, first-person movement: also load `realistic-style`). Pick from the owner's description; ask if unclear.
 - **Animations and cutscenes are mandatory** for every feature.
 - **Every game ALWAYS has** a cutscene-style, heavily animated loading screen **and** a tutorial new players must complete, with spotlights on everything it teaches (`meow-house-style/references/loading-tutorial.md`).
 - **Gamepasses:** always a 2x → 100x upgrading multiplier plus engaging pay-to-win passes.

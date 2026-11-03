@@ -11,6 +11,7 @@ The owner types a game name and a description, nothing else. Do everything below
 Quietly run `git pull` in this repo so the newest skills and rules are used. If it fails (offline, local changes), carry on with what's here.
 
 ## 1. Load the rules
+Pick the style from the description: brainrot / simulator (default) or **realistic** (realistic, lifelike, first-person, horror, job simulator). For realistic, also load `realistic-style`. If it's unclear, make this one of your questions.
 Load `meow-house-style` and follow **every** non-negotiable and the tool routing. In particular, the first build always includes:
 - the cutscene-style loading screen and the mandatory spotlight tutorial (`references/loading-tutorial.md`),
 - the constant-upgrade game loop and the Season 1 pass (`references/game-loop.md`),

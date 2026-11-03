@@ -7,6 +7,10 @@ description: The owner's Roblox house style and standing rules. Use whenever des
 
 The owner pitches ideas; Claude builds everything. Match the owner's taste exactly. Open only the reference file the current task needs.
 
+## Style mode (decide first)
+- **Brainrot / simulator style (default):** everything in this skill.
+- **Realistic style:** when the owner asks for a realistic, lifelike, first-person, horror or job-simulator game, load the **`realistic-style`** skill. It replaces rules 3, 5 and 7 and the matching `bad-avoid.md` entries; every other rule here still applies, adapted to a realistic look.
+
 ## Non-negotiables
 1. **Animate everything.** UI pops with an overshoot, cards stagger in, claims flash + burst + stamp, screens change through transition wipes, idles never stop. Design the motion, camera and timing of every feature.
 2. **Cutscenes for big moments.** Anticipation (≥1 s build) → impact (white flash + shake + burst, cut on the hit) → hold. Blackout before reveals, silhouette before the reveal, rarer = longer. End on a hero pose + title slam.
