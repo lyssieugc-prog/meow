@@ -20,6 +20,7 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 10. **Every game ALWAYS ships with a cutscene-style loading screen:** eye-catching and heavily animated (logo slam with flash + shake, idle loop, themed wipe out), never a plain bar on black. See `references/loading-tutorial.md`.
 11. **Every game ALWAYS has a tutorial new players MUST complete:** learn by doing, spotlight every target (dimmed screen with a cut-out, pulsing ring, pointing hand; world Highlight + arrow + path), saved server-side, ends with a reward cutscene. See `references/loading-tutorial.md`.
 12. **Same style, never the same game.** Rules 1–11 fix the *style*; the *ideas* must be new every game. Never reuse a previous game's code, layout or concepts as a template. Invent fresh for each game: the loading-screen concept and logo animation, the transition wipe, the tutorial guide character and how spotlights move, the core action and its feel, the zones, the pets / creatures, the rebirth twist, the Season 1 theme and its exclusive. Before building, list 3 ideas for each of those and pick the most surprising one that still fits the house style. If something feels like "the last game reskinned", redo it.
+13. **Every game ALWAYS has "JOIN THE GROUP FOR ___ PRIZE!" and "LIKE THE GAME FOR ___!" rewards** that players really get: the group join is prompted in-game and verified on the server; the like reward is a server-wide like goal everyone can claim (Roblox can't detect who liked). See `references/social-rewards.md`.
 
 ## Tool routing (ALWAYS, owner's rule)
 | Work | Tool |
@@ -48,6 +49,7 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 | What to never do | `references/bad-avoid.md` |
 | Maps, thumbnails, promo videos | `references/world-thumbnails-promo.md` |
 | Game loop, upgrade pacing, rebirth, Season Pass | `references/game-loop.md` |
+| Group + like rewards | `references/social-rewards.md` |
 | Gamepasses, products, pricing | `references/monetization.md` |
 | Build process | `references/workflow.md` |
 | MCP / tool setup (Studio, ForgeGUI, Figma, Blender) | `references/tools-mcp.md` |

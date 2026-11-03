@@ -15,6 +15,7 @@ Load `meow-house-style` and follow **every** non-negotiable and the tool routing
 - the cutscene-style loading screen and the mandatory spotlight tutorial (`references/loading-tutorial.md`),
 - the constant-upgrade game loop and the Season 1 pass (`references/game-loop.md`),
 - the 2x → 100x upgrading passes (`references/monetization.md`),
+- the group-join and like-goal rewards (`references/social-rewards.md`),
 - animations and cutscenes on every feature.
 
 ## 2. Make the game's folder
