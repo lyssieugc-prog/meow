@@ -1,7 +1,5 @@
 # GOOD: Models, Pets, Bosses
 
-> Brainrot / simulator style only. For realistic games use `realistic-style/references/models-realistic.md`.
-
 See also `bad-avoid.md` and `cutscenes.md`.
 
 ## The rule
