@@ -1,5 +1,11 @@
 # Tools and MCP servers
 
+## Routing rule (owner)
+- **3D models:** Blender (Blender MCP).
+- **Animations, VFX, 3D model design / preview:** Claude Design.
+- **UI and UI references:** Figma (Figma MCP → figma-to-roblox-ui).
+- **Everything else:** research the best MCP first, then use it. Candidates are under "Other MCPs" at the end of this file; re-check them, because this list goes stale.
+
 ## Roblox Studio MCP (built in)
 In Studio: open your Place → Assistant → … → Manage MCP Servers → **Enable Studio as MCP server** → enable Claude Code under Quick connect. Pair it with **Script Sync** (Studio beta), which mirrors scripts to `.luau` files on disk. The browser version of Claude cannot reach Studio; use Claude Code / Claude desktop on the same computer.
 Guide: https://vi3w.in/guides/build-roblox-games-with-claude
@@ -30,3 +36,13 @@ Optional (not used by this repo; skills replace it):
 - @lihfolk's free 40GB+ Roblox dev vault (link in his Discord / bio): https://www.tiktok.com/@lihfolk/video/7701541453754862861 and "connect Obi vault + Graphify" https://www.tiktok.com/@lihfolk/video/7695815632251538702
 - Claude Code + Obsidian memory: https://github.com/AgriciDaniel/claude-obsidian · https://github.com/eugeniughelbur/obsidian-second-brain
 - Roblox Dev Mastery Vault notes: https://github.com/romangigliotti123-arch/vault-notes-01 (kit linked in `third_party/linked/`)
+
+## Other MCPs (candidates: verify before use, the list changes)
+| Need | MCP | Link |
+|---|---|---|
+| Sound effects, voice, music | ElevenLabs MCP (official), or the sound-effect-only server | https://github.com/elevenlabs/elevenlabs-mcp · https://github.com/zym9863/elevenlabs-sound-effect-server |
+| Fast 3D generation (then clean up in Blender) | Tripo MCP; the `tripo-studio` skill drives the Tripo site | https://www.getdrio.com/mcp/tripo-mcp-vast-ai-research |
+| Game asset images / sprites / icons | Ludo.ai Game Asset MCP | https://ludo.ai/tools/game-asset-mcp-server |
+| Thumbnails, icons, GUI art | ForgeGUI MCP (above) | https://forgegui.net/forgegui-mcp |
+| Extra Roblox Studio control | Weppy Roblox MCP (community) | https://mcpservers.org/servers/hope1026/weppy-roblox-mcp |
+| Browse more | Roblox MCP directories | https://glama.ai/mcp/servers?query=roblox · https://lobehub.com/mcp?q=Roblox · https://chatforest.com/reviews/game-engine-3d-development-mcp-servers/ |

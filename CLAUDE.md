@@ -5,6 +5,7 @@ The owner pitches Roblox game ideas; **Claude builds them** (code, UI, models, V
 - For any game work, load the **`meow-house-style`** skill. It holds the owner's style, animation, cutscene and monetization rules, with detailed reference files it opens on demand.
 - **Animations and cutscenes are mandatory** for every feature.
 - **Gamepasses:** always a 2x → 100x upgrading multiplier plus engaging pay-to-win passes.
+- **Tools:** Blender for 3D models; Claude Design for animations, VFX and model design; Figma for UI; research the best MCP for anything else. See the house-style skill.
 - **Every game:** the constant-upgrade game loop and a themed "Season 1" pass (see `references/game-loop.md`).
 - After each build, run the "show your best friend" review.
 - When the owner sends a reference, break it down (including the animation), wait for GOOD / BAD, then record it in the skill's reference files.

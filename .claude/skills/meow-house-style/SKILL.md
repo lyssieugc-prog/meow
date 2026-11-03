@@ -18,6 +18,15 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 8. **Constant upgrades:** the player is never more than 30–60 s from the next upgrade. Use the four stacked loops (core → upgrades → rebirth → return) in `references/game-loop.md`.
 9. **Every game ships with a "Season 1" pass:** a battle-pass-style pass named and themed after the game (free + Premium tracks; potions, money, eggs, boosts, exclusive Season 1 pet / tool), with Premium, tier skips and a season countdown.
 
+## Tool routing (ALWAYS, owner's rule)
+| Work | Tool |
+|---|---|
+| 3D models (pets, bosses, props, weapons) | **Blender** via Blender MCP; build and export GLB / FBX for Studio |
+| Animations, VFX, 3D model previews / design | **Claude Design** (preview, model handoff doc, animation + VFX design), then build in Blender / Studio |
+| UI and UI references | **Figma** via Figma MCP, imported with the `figma-to-roblox-ui` skill, then scripted with `ui-motion.md` |
+| Anything else (sound, music, textures, icons, thumbnails, terrain, voice ...) | **Research the best MCP for the job first** (start with `references/tools-mcp.md` → "Other MCPs"), tell the owner which one and why, then use it |
+| Code / place | Roblox Studio MCP + Script Sync |
+
 ## Process
 - Before any creature or prop: write a **model handoff doc** (style rules + part-by-part description), preview it, then build / export.
 - After every build: run the **"show your best friend" review**. Simulate a kid showing the game to their best friend, list what they'd be excited to show off and what they'd skip, then fix the weakest parts.
