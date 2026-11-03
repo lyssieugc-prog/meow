@@ -1,6 +1,6 @@
 ---
 name: meow-house-style
-description: The owner's Roblox house style and standing rules. Use whenever designing, building, reviewing or pitching ANY part of the owner's Roblox games (UI, shops, pets, models, bosses, VFX, combat, cutscenes, maps, monetization, thumbnails, trailers), and whenever the owner sends a reference image or video with a GOOD / BAD verdict.
+description: The owner's Roblox house style and standing rules. Use whenever designing, building, reviewing or pitching ANY part of the owner's Roblox games (loading screens, tutorials, UI, shops, pets, models, bosses, VFX, combat, cutscenes, maps, monetization, thumbnails, trailers), and whenever the owner sends a reference image or video with a GOOD / BAD verdict.
 ---
 
 # meow house style
@@ -17,6 +17,8 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 7. **Bright, saturated, readable worlds.** No dark, muddy maps.
 8. **Constant upgrades:** the player is never more than 30–60 s from the next upgrade. Use the four stacked loops (core → upgrades → rebirth → return) in `references/game-loop.md`.
 9. **Every game ships with a "Season 1" pass:** a battle-pass-style pass named and themed after the game (free + Premium tracks; potions, money, eggs, boosts, exclusive Season 1 pet / tool), with Premium, tier skips and a season countdown.
+10. **Every game ALWAYS ships with a cutscene-style loading screen:** eye-catching and heavily animated (logo slam with flash + shake, idle loop, themed wipe out), never a plain bar on black. See `references/loading-tutorial.md`.
+11. **Every game ALWAYS has a tutorial new players MUST complete:** learn by doing, spotlight every target (dimmed screen with a cut-out, pulsing ring, pointing hand; world Highlight + arrow + path), saved server-side, ends with a reward cutscene. See `references/loading-tutorial.md`.
 
 ## Tool routing (ALWAYS, owner's rule)
 | Work | Tool |
@@ -35,6 +37,7 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 ## Reference files (open only what the task needs)
 | Task | File |
 |---|---|
+| Loading screen, mandatory tutorial, spotlights | `references/loading-tutorial.md` |
 | Shops, menus, HUD look | `references/ui-good.md` |
 | Exact fonts, colours, component specs | `references/ui-spec.md` |
 | UI animation | `references/ui-motion.md` |

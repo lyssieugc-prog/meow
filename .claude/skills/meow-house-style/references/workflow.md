@@ -6,6 +6,7 @@ The owner pitches ideas; **Claude builds** the code, UI, models and VFX. The own
 1. **Pitch → one-pager:** core loop, theme / element, monetization from `monetization.md`.
 2. **Model handoff doc first** (@vos_studiostt method): the game's style rules plus a part-by-part description of each creature / prop. Preview the 3D model (Claude artifact / Blender MCP), get approval, then build and export (OBJ / GLB → Studio).
 3. **UI:** design in Figma or ForgeGUI art → import with figma-to-roblox-ui → script the `ui-motion.md`.
+3b. **Loading screen + mandatory tutorial** are part of the first build of every game (`loading-tutorial.md`).
 4. **Code** in Luau (`--!strict`), server-authoritative, synced via Studio MCP / Script Sync or Rojo.
 5. **Cutscenes / VFX** per `cutscenes.md`.
 6. **"Show your best friend" review** (@momentumcash method) on every build: simulate a kid showing the game to their best friend. What would they be excited to show off? What would they skip? Improve the weakest parts.
