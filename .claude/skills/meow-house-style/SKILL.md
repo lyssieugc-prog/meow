@@ -22,6 +22,8 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 12. **Same style, never the same game.** Rules 1–11 fix the *style*; the *ideas* must be new every game. Never reuse a previous game's code, layout or concepts as a template. Invent fresh for each game: the loading-screen concept and logo animation, the transition wipe, the tutorial guide character and how spotlights move, the core action and its feel, the zones, the pets / creatures, the rebirth twist, the Season 1 theme and its exclusive. Before building, list 3 ideas for each of those and pick the most surprising one that still fits the house style. If something feels like "the last game reskinned", redo it.
 13. **Every game ALWAYS has "JOIN THE GROUP FOR ___ PRIZE!" and "LIKE THE GAME FOR ___!" rewards** that players really get: the group join is prompted in-game and verified on the server; the like reward is a server-wide like goal everyone can claim (Roblox can't detect who liked). See `references/social-rewards.md`.
 
+10. **"One more" engagement:** variable rewards with loud rare hits, a progress bar ≥80% full at almost all times, unfinished business on every exit, collection with "???" slots, showing off, and reasons to return. Follow Roblox's paid-random-item rules (odds shown, PolicyService). `references/engagement.md`.
+
 ## Tool routing (ALWAYS, owner's rule)
 | Work | Tool |
 |---|---|
@@ -50,6 +52,7 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 | Maps, thumbnails, promo videos | `references/world-thumbnails-promo.md` |
 | Game loop, upgrade pacing, rebirth, Season Pass | `references/game-loop.md` |
 | Group + like rewards | `references/social-rewards.md` |
+| Retention psychology, session shape, Roblox odds rules | `references/engagement.md` |
 | Gamepasses, products, pricing | `references/monetization.md` |
 | Build process | `references/workflow.md` |
 | MCP / tool setup (Studio, ForgeGUI, Figma, Blender) | `references/tools-mcp.md` |
