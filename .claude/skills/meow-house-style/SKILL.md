@@ -18,6 +18,8 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 8. **Constant upgrades:** the player is never more than 30–60 s from the next upgrade. Use the four stacked loops (core → upgrades → rebirth → return) in `references/game-loop.md`.
 9. **Every game ships with a "Season 1" pass:** a battle-pass-style pass named and themed after the game (free + Premium tracks; potions, money, eggs, boosts, exclusive Season 1 pet / tool), with Premium, tier skips and a season countdown.
 
+10. **"One more" engagement:** variable rewards with loud rare hits, a progress bar ≥80% full at almost all times, unfinished business on every exit, collection with "???" slots, showing off, and reasons to return. Follow Roblox's paid-random-item rules (odds shown, PolicyService). `references/engagement.md`.
+
 ## Tool routing (ALWAYS, owner's rule)
 | Work | Tool |
 |---|---|
@@ -44,6 +46,7 @@ The owner pitches ideas; Claude builds everything. Match the owner's taste exact
 | What to never do | `references/bad-avoid.md` |
 | Maps, thumbnails, promo videos | `references/world-thumbnails-promo.md` |
 | Game loop, upgrade pacing, rebirth, Season Pass | `references/game-loop.md` |
+| Retention psychology, session shape, Roblox odds rules | `references/engagement.md` |
 | Gamepasses, products, pricing | `references/monetization.md` |
 | Build process | `references/workflow.md` |
 | MCP / tool setup (Studio, ForgeGUI, Figma, Blender) | `references/tools-mcp.md` |
